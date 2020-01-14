@@ -1,2 +1,2 @@
-# image-classifier
-Using a CNN to classify between a cat and a dog
+# Image classifier
+This program uses a Convolutional Neural Network to classify pictures of cats and dogs and correctly label them.
